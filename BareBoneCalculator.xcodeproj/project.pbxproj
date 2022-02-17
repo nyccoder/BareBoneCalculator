@@ -24,6 +24,7 @@
 		7092790E27BF0EC500929B40 /* BasicPadDimensionConst.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092790127BF0EC500929B40 /* BasicPadDimensionConst.swift */; };
 		7092790F27BF0EC500929B40 /* DisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092790227BF0EC500929B40 /* DisplayView.swift */; };
 		7092791127BF132100929B40 /* Documentation.docc in Sources */ = {isa = PBXBuildFile; fileRef = 7092791027BF132100929B40 /* Documentation.docc */; };
+		7092791327BF16F000929B40 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7092791227BF16F000929B40 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		7092790127BF0EC500929B40 /* BasicPadDimensionConst.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicPadDimensionConst.swift; sourceTree = "<group>"; };
 		7092790227BF0EC500929B40 /* DisplayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisplayView.swift; sourceTree = "<group>"; };
 		7092791027BF132100929B40 /* Documentation.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Documentation.docc; sourceTree = "<group>"; };
+		7092791227BF16F000929B40 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		709278DC27BF0D3C00929B40 = {
 			isa = PBXGroup;
 			children = (
+				7092791227BF16F000929B40 /* README.md */,
 				7092791027BF132100929B40 /* Documentation.docc */,
 				709278E727BF0D3C00929B40 /* BareBoneCalculator */,
 				709278E627BF0D3C00929B40 /* Products */,
@@ -164,6 +167,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7092791327BF16F000929B40 /* README.md in Resources */,
 				709278F027BF0D3D00929B40 /* Preview Assets.xcassets in Resources */,
 				709278ED27BF0D3D00929B40 /* Assets.xcassets in Resources */,
 			);
