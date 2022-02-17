@@ -23,6 +23,7 @@
 		7092790D27BF0EC500929B40 /* HUDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092790027BF0EC500929B40 /* HUDView.swift */; };
 		7092790E27BF0EC500929B40 /* BasicPadDimensionConst.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092790127BF0EC500929B40 /* BasicPadDimensionConst.swift */; };
 		7092790F27BF0EC500929B40 /* DisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092790227BF0EC500929B40 /* DisplayView.swift */; };
+		7092791127BF132100929B40 /* Documentation.docc in Sources */ = {isa = PBXBuildFile; fileRef = 7092791027BF132100929B40 /* Documentation.docc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		7092790027BF0EC500929B40 /* HUDView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HUDView.swift; sourceTree = "<group>"; };
 		7092790127BF0EC500929B40 /* BasicPadDimensionConst.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicPadDimensionConst.swift; sourceTree = "<group>"; };
 		7092790227BF0EC500929B40 /* DisplayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisplayView.swift; sourceTree = "<group>"; };
+		7092791027BF132100929B40 /* Documentation.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Documentation.docc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		709278DC27BF0D3C00929B40 = {
 			isa = PBXGroup;
 			children = (
+				7092791027BF132100929B40 /* Documentation.docc */,
 				709278E727BF0D3C00929B40 /* BareBoneCalculator */,
 				709278E627BF0D3C00929B40 /* Products */,
 			);
@@ -186,6 +189,7 @@
 				7092790327BF0EC500929B40 /* Operator.swift in Sources */,
 				7092790427BF0EC500929B40 /* KeypadView.swift in Sources */,
 				7092790E27BF0EC500929B40 /* BasicPadDimensionConst.swift in Sources */,
+				7092791127BF132100929B40 /* Documentation.docc in Sources */,
 				7092790727BF0EC500929B40 /* SolutionRowList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
